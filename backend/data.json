@@ -1,0 +1,2189 @@
+[
+  {
+    "status": "clean_water",
+    "confidence": 0.8108162020687201,
+    "imageUrl": "1776804469253-819641441",
+    "_id": "1776804469352",
+    "createdAt": "2026-04-21T20:47:49.352Z"
+  },
+  {
+    "status": "clean_water",
+    "confidence": 0.8108162020687201,
+    "imageUrl": "1776804469253-819641441",
+    "_id": "1776804469352",
+    "createdAt": "2026-04-21T20:47:49.352Z"
+  },
+  {
+    "status": "clean_water",
+    "confidence": 0.8396611926844927,
+    "imageUrl": "1776804519323-784540632",
+    "_id": "1776804519422",
+    "createdAt": "2026-04-21T20:48:39.422Z"
+  },
+  {
+    "status": "algae_present",
+    "confidence": 0.9029401114721041,
+    "imageUrl": "1776804522824-3850838",
+    "_id": "1776804522934",
+    "createdAt": "2026-04-21T20:48:42.934Z"
+  },
+  {
+    "status": "clean_water",
+    "confidence": 0.8507142206049112,
+    "imageUrl": "1776804526334-648603692",
+    "_id": "1776804526454",
+    "createdAt": "2026-04-21T20:48:46.454Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.8664527552779941,
+    "imageUrl": "1776804529810-376926510",
+    "_id": "1776804529897",
+    "createdAt": "2026-04-21T20:48:49.897Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.8631582115778365,
+    "imageUrl": "1776804533316-395816791",
+    "_id": "1776804533416",
+    "createdAt": "2026-04-21T20:48:53.416Z"
+  },
+  {
+    "status": "algae_present",
+    "confidence": 0.9497599148630506,
+    "imageUrl": "1776804536821-715831507",
+    "_id": "1776804536907",
+    "createdAt": "2026-04-21T20:48:56.907Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.8399988653669603,
+    "imageUrl": "1776804540304-727207958",
+    "_id": "1776804540369",
+    "createdAt": "2026-04-21T20:49:00.369Z"
+  },
+  {
+    "status": "clean_water",
+    "confidence": 0.9218545629401514,
+    "imageUrl": "1776804543810-176840102",
+    "_id": "1776804543880",
+    "createdAt": "2026-04-21T20:49:03.880Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.8660307370425492,
+    "imageUrl": "1776804547314-896075095",
+    "_id": "1776804547409",
+    "createdAt": "2026-04-21T20:49:07.409Z"
+  },
+  {
+    "status": "Oil Spill Water",
+    "confidence": 0.435,
+    "imageUrl": "1776943339099-766117625.png",
+    "latitude": 30.599099017260112,
+    "longitude": 74.12724722898943,
+    "_id": "1776943339228",
+    "createdAt": "2026-04-23T11:22:19.228Z"
+  },
+  {
+    "status": "Oil Spill Water",
+    "confidence": 0.435,
+    "imageUrl": "1776943339102-307136825.png",
+    "latitude": 30.599099017260112,
+    "longitude": 74.12724722898943,
+    "_id": "1776943339232",
+    "createdAt": "2026-04-23T11:22:19.232Z"
+  },
+  {
+    "status": "algae_present",
+    "confidence": 0.675,
+    "imageUrl": "1776943352079-827418636.png",
+    "latitude": 30.599099017260112,
+    "longitude": 74.12724722898943,
+    "_id": "1776943352165",
+    "createdAt": "2026-04-23T11:22:32.166Z"
+  },
+  {
+    "status": "algae_present",
+    "confidence": 0.675,
+    "imageUrl": "1776943394607-190244760.png",
+    "latitude": 30.598988246148306,
+    "longitude": 74.12764677520204,
+    "_id": "1776943394708",
+    "createdAt": "2026-04-23T11:23:14.708Z"
+  },
+  {
+    "status": "algae_present",
+    "confidence": 0.865,
+    "imageUrl": "1776944316166-473977083.jpg",
+    "latitude": 30.599015480146136,
+    "longitude": 74.12749173826963,
+    "_id": "1776944316255",
+    "createdAt": "2026-04-23T11:38:36.255Z"
+  },
+  {
+    "status": "Foam water",
+    "confidence": 0.98,
+    "imageUrl": "1776944331385-32911514.png",
+    "latitude": 30.599039889063242,
+    "longitude": 74.12740821905518,
+    "_id": "1776944331480",
+    "createdAt": "2026-04-23T11:38:51.480Z"
+  },
+  {
+    "status": "algae_present",
+    "confidence": 0.675,
+    "imageUrl": "1776944367987-461190002.png",
+    "latitude": 30.599031704202634,
+    "longitude": 74.12741851788593,
+    "_id": "1776944368078",
+    "createdAt": "2026-04-23T11:39:28.078Z"
+  },
+  {
+    "status": "algae_present",
+    "confidence": 0.865,
+    "imageUrl": "1776944783230-538968184.jpg",
+    "latitude": 30.59898592244477,
+    "longitude": 74.12741337930018,
+    "_id": "1776944783322",
+    "createdAt": "2026-04-23T11:46:23.322Z"
+  },
+  {
+    "status": "Oil Spill Water",
+    "confidence": 0.435,
+    "imageUrl": "1776944799453-720754404.png",
+    "latitude": 30.59894268472489,
+    "longitude": 74.12742866745306,
+    "_id": "1776944799588",
+    "createdAt": "2026-04-23T11:46:39.588Z"
+  },
+  {
+    "status": "Oil Spill Water",
+    "confidence": 0.435,
+    "imageUrl": "1776944799456-971987204.png",
+    "latitude": 30.59894268472489,
+    "longitude": 74.12742866745306,
+    "_id": "1776944799593",
+    "createdAt": "2026-04-23T11:46:39.593Z"
+  },
+  {
+    "status": "Foam water",
+    "confidence": 0.98,
+    "imageUrl": "1776944815215-796030162.png",
+    "latitude": 30.599036022588784,
+    "longitude": 74.12740180477658,
+    "_id": "1776944815309",
+    "createdAt": "2026-04-23T11:46:55.309Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.513,
+    "imageUrl": "1776944939673-515292242",
+    "latitude": null,
+    "longitude": null,
+    "_id": "1776944939976",
+    "createdAt": "2026-04-23T11:48:59.976Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.5179,
+    "imageUrl": "1776944939721-194819998",
+    "latitude": 30.598930259368252,
+    "longitude": 74.12744760581775,
+    "_id": "1776944939991",
+    "createdAt": "2026-04-23T11:48:59.991Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.5092,
+    "imageUrl": "1776944947840-295030784",
+    "latitude": 30.599034974416757,
+    "longitude": 74.12742035741947,
+    "_id": "1776944947959",
+    "createdAt": "2026-04-23T11:49:07.959Z"
+  },
+  {
+    "status": "Foam water",
+    "confidence": 0.7138,
+    "imageUrl": "1776944957432-543825591.jpg",
+    "latitude": 30.599034974416757,
+    "longitude": 74.12742035741947,
+    "_id": "1776944957564",
+    "createdAt": "2026-04-23T11:49:17.564Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.4725,
+    "imageUrl": "1776944971202-428912559.png",
+    "latitude": 30.598992216104847,
+    "longitude": 74.12758242285125,
+    "_id": "1776944971321",
+    "createdAt": "2026-04-23T11:49:31.321Z"
+  },
+  {
+    "status": "algae_present",
+    "confidence": 0.9618,
+    "imageUrl": "1776944985137-978349157.png",
+    "latitude": 30.59897155614093,
+    "longitude": 74.12751999649792,
+    "_id": "1776944985243",
+    "createdAt": "2026-04-23T11:49:45.243Z"
+  },
+  {
+    "status": "Oil Spill Water",
+    "confidence": 0.8944,
+    "imageUrl": "1776945001083-609298450.png",
+    "latitude": 30.598963066759815,
+    "longitude": 74.12754634270001,
+    "_id": "1776945001201",
+    "createdAt": "2026-04-23T11:50:01.201Z"
+  },
+  {
+    "status": "Foam water",
+    "confidence": 0.6865,
+    "imageUrl": "1776945053265-634131170.jpg",
+    "latitude": 30.59907138585278,
+    "longitude": 74.12734007590903,
+    "_id": "1776945053337",
+    "createdAt": "2026-04-23T11:50:53.337Z"
+  },
+  {
+    "status": "Foam water",
+    "confidence": 0.7138,
+    "imageUrl": "1776945070403-595412852.jpg",
+    "latitude": 30.598950371909254,
+    "longitude": 74.12766788519271,
+    "_id": "1776945070465",
+    "createdAt": "2026-04-23T11:51:10.465Z"
+  },
+  {
+    "status": "algae_present",
+    "confidence": 0.6967,
+    "imageUrl": "1776945108732-223754925.jpg",
+    "latitude": 30.599024409461464,
+    "longitude": 74.12731970481327,
+    "_id": "1776945108797",
+    "createdAt": "2026-04-23T11:51:48.797Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.4344,
+    "imageUrl": "1776945161415-399072879.jpg",
+    "latitude": 30.59890706228823,
+    "longitude": 74.12758574953659,
+    "_id": "1776945161481",
+    "createdAt": "2026-04-23T11:52:41.481Z"
+  },
+  {
+    "status": "algae_present",
+    "confidence": 0.6967,
+    "imageUrl": "1776945185998-565845742.jpg",
+    "latitude": 30.5989533511036,
+    "longitude": 74.12753044555517,
+    "_id": "1776945186110",
+    "createdAt": "2026-04-23T11:53:06.110Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.4344,
+    "imageUrl": "1776945185995-852892186.jpg",
+    "latitude": 30.5989533511036,
+    "longitude": 74.12753044555517,
+    "_id": "1776945186114",
+    "createdAt": "2026-04-23T11:53:06.114Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.341,
+    "imageUrl": "1776945231541-278811115.jpg",
+    "latitude": 30.599015480146136,
+    "longitude": 74.12749173826963,
+    "_id": "1776945231617",
+    "createdAt": "2026-04-23T11:53:51.617Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.341,
+    "imageUrl": "1776945254340-593022660.jpg",
+    "latitude": 30.59896942644083,
+    "longitude": 74.12758408905982,
+    "_id": "1776945254411",
+    "createdAt": "2026-04-23T11:54:14.411Z"
+  },
+  {
+    "status": "Oil Spill Water",
+    "confidence": 0.3833,
+    "imageUrl": "1776945283230-918480493.jpg",
+    "latitude": 30.598984517066505,
+    "longitude": 74.12754253900474,
+    "_id": "1776945283296",
+    "createdAt": "2026-04-23T11:54:43.296Z"
+  },
+  {
+    "status": "Uncertain",
+    "confidence": 0.3855,
+    "imageUrl": "1777024730231-28085401",
+    "latitude": null,
+    "longitude": null,
+    "_id": "1777024731225",
+    "createdAt": "2026-04-24T09:58:51.225Z"
+  },
+  {
+    "status": "Uncertain",
+    "confidence": 0.3373,
+    "imageUrl": "1777024758336-831340504",
+    "latitude": null,
+    "longitude": null,
+    "_id": "1777024758978",
+    "createdAt": "2026-04-24T09:59:18.978Z"
+  },
+  {
+    "status": "Oil Spill Water",
+    "confidence": 0.9914,
+    "imageUrl": "1777024774790-390950634.png",
+    "latitude": null,
+    "longitude": null,
+    "_id": "1777024775403",
+    "createdAt": "2026-04-24T09:59:35.403Z"
+  },
+  {
+    "status": "Uncertain",
+    "confidence": 0.4719,
+    "imageUrl": "1777024797330-841842218.png",
+    "latitude": null,
+    "longitude": null,
+    "_id": "1777024797921",
+    "createdAt": "2026-04-24T09:59:57.922Z"
+  },
+  {
+    "status": "Uncertain",
+    "confidence": 0.5309,
+    "imageUrl": "1777024818851-440218506.png",
+    "latitude": null,
+    "longitude": null,
+    "_id": "1777024819456",
+    "createdAt": "2026-04-24T10:00:19.456Z"
+  },
+  {
+    "status": "algae_present",
+    "confidence": 0.9372,
+    "imageUrl": "1777024855706-744350229.png",
+    "latitude": null,
+    "longitude": null,
+    "_id": "1777024856294",
+    "createdAt": "2026-04-24T10:00:56.294Z"
+  },
+  {
+    "status": "Uncertain",
+    "confidence": 0.4737,
+    "imageUrl": "1777024881387-351867996.jpg",
+    "latitude": null,
+    "longitude": null,
+    "_id": "1777024881966",
+    "createdAt": "2026-04-24T10:01:21.966Z"
+  },
+  {
+    "status": "Oil Spill Water",
+    "confidence": 0.7525,
+    "imageUrl": "1777024908933-404459413.jpg",
+    "latitude": null,
+    "longitude": null,
+    "_id": "1777024909524",
+    "createdAt": "2026-04-24T10:01:49.524Z"
+  },
+  {
+    "status": "clean_water",
+    "confidence": 0.8555,
+    "imageUrl": "1777024923233-619420936.jpg",
+    "latitude": null,
+    "longitude": null,
+    "_id": "1777024923811",
+    "createdAt": "2026-04-24T10:02:03.812Z"
+  },
+  {
+    "status": "Uncertain",
+    "confidence": 0.5411,
+    "imageUrl": "1777024974822-658824242.jpg",
+    "latitude": null,
+    "longitude": null,
+    "_id": "1777024975148",
+    "createdAt": "2026-04-24T10:02:55.148Z"
+  },
+  {
+    "status": "clean_water",
+    "confidence": 0.57,
+    "imageUrl": "1777026098025-451006121.png",
+    "latitude": null,
+    "longitude": null,
+    "_id": "1777026098185",
+    "createdAt": "2026-04-24T10:21:38.185Z"
+  },
+  {
+    "status": "Oil Spill Water",
+    "confidence": 1,
+    "imageUrl": "1777026107408-375232078.png",
+    "latitude": null,
+    "longitude": null,
+    "_id": "1777026107469",
+    "createdAt": "2026-04-24T10:21:47.469Z"
+  },
+  {
+    "status": "algae_present",
+    "confidence": 0.98,
+    "imageUrl": "1777026115788-94479974.png",
+    "latitude": null,
+    "longitude": null,
+    "_id": "1777026115852",
+    "createdAt": "2026-04-24T10:21:55.852Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.57,
+    "imageUrl": "1777026126689-293032685.png",
+    "latitude": null,
+    "longitude": null,
+    "_id": "1777026126758",
+    "createdAt": "2026-04-24T10:22:06.758Z"
+  },
+  {
+    "status": "algae_present",
+    "confidence": 0.325,
+    "imageUrl": "1777026141428-109783056",
+    "latitude": null,
+    "longitude": null,
+    "_id": "1777026141499",
+    "createdAt": "2026-04-24T10:22:21.499Z"
+  },
+  {
+    "status": "algae_present",
+    "confidence": 0.365,
+    "imageUrl": "1777026146425-13604668",
+    "latitude": null,
+    "longitude": null,
+    "_id": "1777026146500",
+    "createdAt": "2026-04-24T10:22:26.500Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.375,
+    "imageUrl": "1777026151429-186583894",
+    "latitude": null,
+    "longitude": null,
+    "_id": "1777026151498",
+    "createdAt": "2026-04-24T10:22:31.498Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.38,
+    "imageUrl": "1777026156423-33503211",
+    "latitude": null,
+    "longitude": null,
+    "_id": "1777026156489",
+    "createdAt": "2026-04-24T10:22:36.489Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.4,
+    "imageUrl": "1777026161424-447671646",
+    "latitude": null,
+    "longitude": null,
+    "_id": "1777026161509",
+    "createdAt": "2026-04-24T10:22:41.509Z"
+  },
+  {
+    "status": "Oil Spill Water",
+    "confidence": 1,
+    "imageUrl": "1777026179492-857640152.png",
+    "latitude": 30.598988060593424,
+    "longitude": 74.12753539213477,
+    "_id": "1777026179586",
+    "createdAt": "2026-04-24T10:22:59.586Z"
+  },
+  {
+    "status": "Oil Spill Water",
+    "confidence": 1,
+    "imageUrl": "1777026179495-426211679.png",
+    "latitude": 30.598988060593424,
+    "longitude": 74.12753539213477,
+    "_id": "1777026179594",
+    "createdAt": "2026-04-24T10:22:59.594Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.34,
+    "imageUrl": "1777026194197-344356514",
+    "latitude": 30.59900638009146,
+    "longitude": 74.12749220421274,
+    "_id": "1777026194265",
+    "createdAt": "2026-04-24T10:23:14.265Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.41,
+    "imageUrl": "1777026196020-811261620",
+    "latitude": 30.59900638009146,
+    "longitude": 74.12749220421274,
+    "_id": "1777026196095",
+    "createdAt": "2026-04-24T10:23:16.095Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.42,
+    "imageUrl": "1777026205041-244948278",
+    "latitude": 30.599043202193883,
+    "longitude": 74.12765866611166,
+    "_id": "1777026205100",
+    "createdAt": "2026-04-24T10:23:25.100Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.405,
+    "imageUrl": "1777026206906-407514365",
+    "latitude": 30.599043202193883,
+    "longitude": 74.12765866611166,
+    "_id": "1777026206972",
+    "createdAt": "2026-04-24T10:23:26.972Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.425,
+    "imageUrl": "1777026216095-620209672",
+    "latitude": 30.599053678836317,
+    "longitude": 74.1276309093597,
+    "_id": "1777026216153",
+    "createdAt": "2026-04-24T10:23:36.153Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.415,
+    "imageUrl": "1777026217917-123695218",
+    "latitude": 30.599053678836317,
+    "longitude": 74.1276309093597,
+    "_id": "1777026217977",
+    "createdAt": "2026-04-24T10:23:37.977Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.385,
+    "imageUrl": "1777026222884-295158557",
+    "latitude": 30.599053678836317,
+    "longitude": 74.1276309093597,
+    "_id": "1777026222946",
+    "createdAt": "2026-04-24T10:23:42.946Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.39,
+    "imageUrl": "1777026231151-162377960",
+    "latitude": 30.599051493242275,
+    "longitude": 74.1276107328418,
+    "_id": "1777026231215",
+    "createdAt": "2026-04-24T10:23:51.215Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.37,
+    "imageUrl": "1777026232106-323216245",
+    "latitude": 30.599051493242275,
+    "longitude": 74.1276107328418,
+    "_id": "1777026232180",
+    "createdAt": "2026-04-24T10:23:52.180Z"
+  },
+  {
+    "status": "Oil Spill Water",
+    "confidence": 0.52,
+    "imageUrl": "1777026267071-572204886.png",
+    "latitude": 30.59902415912806,
+    "longitude": 74.12740066271914,
+    "_id": "1777026267178",
+    "createdAt": "2026-04-24T10:24:27.178Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.44,
+    "imageUrl": "1777026310096-624002684",
+    "latitude": 30.59911350061851,
+    "longitude": 74.12730024165796,
+    "_id": "1777026310199",
+    "createdAt": "2026-04-24T10:25:10.199Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.45,
+    "imageUrl": "1777026312026-984785829",
+    "latitude": 30.59911350061851,
+    "longitude": 74.12730024165796,
+    "_id": "1777026312164",
+    "createdAt": "2026-04-24T10:25:12.164Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.49,
+    "imageUrl": "1777026320352-854003268",
+    "latitude": 30.599216290068732,
+    "longitude": 74.12747451545522,
+    "_id": "1777026320456",
+    "createdAt": "2026-04-24T10:25:20.456Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.46,
+    "imageUrl": "1777026322035-861722036",
+    "latitude": 30.599216290068732,
+    "longitude": 74.12747451545522,
+    "_id": "1777026322128",
+    "createdAt": "2026-04-24T10:25:22.129Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.475,
+    "imageUrl": "1777026330217-196783901",
+    "latitude": 30.59908458007071,
+    "longitude": 74.12748491439945,
+    "_id": "1777026330344",
+    "createdAt": "2026-04-24T10:25:30.344Z"
+  },
+  {
+    "status": "Oil Spill Water",
+    "confidence": 0.52,
+    "imageUrl": "1777026547713-539721152.png",
+    "latitude": 30.598908331055494,
+    "longitude": 74.12735064796506,
+    "_id": "1777026547825",
+    "createdAt": "2026-04-24T10:29:07.825Z"
+  },
+  {
+    "status": "Oil Spill Water",
+    "confidence": 0.52,
+    "imageUrl": "1777026584800-64666274.png",
+    "latitude": 30.599296469390705,
+    "longitude": 74.12729063581268,
+    "_id": "1777026584901",
+    "createdAt": "2026-04-24T10:29:44.901Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.46,
+    "imageUrl": "1777026606485-908941509",
+    "latitude": 30.599089868674493,
+    "longitude": 74.12741352459669,
+    "_id": "1777026606581",
+    "createdAt": "2026-04-24T10:30:06.581Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.47,
+    "imageUrl": "1777026608288-286316140",
+    "latitude": 30.599089868674493,
+    "longitude": 74.12741352459669,
+    "_id": "1777026608381",
+    "createdAt": "2026-04-24T10:30:08.381Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.455,
+    "imageUrl": "1777026616437-747731806",
+    "latitude": 30.599073149945397,
+    "longitude": 74.12740261450573,
+    "_id": "1777026616529",
+    "createdAt": "2026-04-24T10:30:16.529Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.455,
+    "imageUrl": "1777026618308-743094818",
+    "latitude": 30.599073149945397,
+    "longitude": 74.12740261450573,
+    "_id": "1777026618436",
+    "createdAt": "2026-04-24T10:30:18.436Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.46,
+    "imageUrl": "1777026626484-381717187",
+    "latitude": 30.599038652362662,
+    "longitude": 74.12757667922612,
+    "_id": "1777026626593",
+    "createdAt": "2026-04-24T10:30:26.593Z"
+  },
+  {
+    "status": "Oil Spill Water",
+    "confidence": 0.52,
+    "imageUrl": "1777026772018-893968114.png",
+    "latitude": 30.599145782236466,
+    "longitude": 74.1274540629208,
+    "locationName": null,
+    "_id": "1777026772098",
+    "createdAt": "2026-04-24T10:32:52.098Z"
+  },
+  {
+    "status": "Oil Spill Water",
+    "confidence": 0.52,
+    "imageUrl": "1777026929745-206882193.png",
+    "latitude": 30.599009397256133,
+    "longitude": 74.1275152425181,
+    "locationName": null,
+    "_id": "1777026929850",
+    "createdAt": "2026-04-24T10:35:29.850Z"
+  },
+  {
+    "status": "Oil Spill Water",
+    "confidence": 1,
+    "imageUrl": "1777026968886-296294381.png",
+    "latitude": 30.599080478472565,
+    "longitude": 74.12746891080155,
+    "locationName": "antaltic ocen",
+    "_id": "1777026969014",
+    "createdAt": "2026-04-24T10:36:09.014Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.57,
+    "imageUrl": "1777027285323-738212447.png",
+    "latitude": 30.59904107491014,
+    "longitude": 74.12740203559024,
+    "locationName": null,
+    "_id": "1777027285416",
+    "createdAt": "2026-04-24T10:41:25.416Z"
+  },
+  {
+    "status": "Oil Spill Water",
+    "confidence": 0.52,
+    "imageUrl": "1777027452337-175716193.png",
+    "latitude": 30.598973637612744,
+    "longitude": 74.12739500871523,
+    "locationName": null,
+    "_id": "1777027452455",
+    "createdAt": "2026-04-24T10:44:12.455Z"
+  },
+  {
+    "status": "clean_water",
+    "confidence": 0.57,
+    "imageUrl": "1777027470699-28684598.png",
+    "latitude": 30.598988080871663,
+    "longitude": 74.1273836134379,
+    "locationName": null,
+    "_id": "1777027470826",
+    "createdAt": "2026-04-24T10:44:30.826Z"
+  },
+  {
+    "status": "algae_present",
+    "confidence": 0.98,
+    "imageUrl": "1777027497673-886421319.png",
+    "latitude": 30.599073149945397,
+    "longitude": 74.12740261450573,
+    "locationName": null,
+    "_id": "1777027497784",
+    "createdAt": "2026-04-24T10:44:57.784Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.51,
+    "imageUrl": "1777027569821-32774333",
+    "latitude": 30.59898125897453,
+    "longitude": 74.12740212500253,
+    "locationName": null,
+    "_id": "1777027569912",
+    "createdAt": "2026-04-24T10:46:09.912Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.49,
+    "imageUrl": "1777027571716-796324625",
+    "latitude": 30.59898125897453,
+    "longitude": 74.12740212500253,
+    "locationName": null,
+    "_id": "1777027571802",
+    "createdAt": "2026-04-24T10:46:11.802Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.505,
+    "imageUrl": "1777027579937-670651070",
+    "latitude": 30.599019628524974,
+    "longitude": 74.12738498720334,
+    "locationName": null,
+    "_id": "1777027580060",
+    "createdAt": "2026-04-24T10:46:20.060Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.495,
+    "imageUrl": "1777027581712-402578976",
+    "latitude": 30.599019628524974,
+    "longitude": 74.12738498720334,
+    "locationName": null,
+    "_id": "1777027581817",
+    "createdAt": "2026-04-24T10:46:21.817Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.5,
+    "imageUrl": "1777027945608-168647651",
+    "latitude": 30.599137743335927,
+    "longitude": 74.12732821868883,
+    "locationName": null,
+    "_id": "1777027945705",
+    "createdAt": "2026-04-24T10:52:25.705Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.495,
+    "imageUrl": "1777027947447-372774754",
+    "latitude": 30.599137743335927,
+    "longitude": 74.12732821868883,
+    "locationName": null,
+    "_id": "1777027947543",
+    "createdAt": "2026-04-24T10:52:27.543Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.48,
+    "imageUrl": "1777027955611-290208071",
+    "latitude": 30.599074055506133,
+    "longitude": 74.12726762716684,
+    "locationName": null,
+    "_id": "1777027955690",
+    "createdAt": "2026-04-24T10:52:35.690Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.465,
+    "imageUrl": "1777029440962-329116897",
+    "latitude": 31.248032,
+    "longitude": 75.703354,
+    "locationName": null,
+    "_id": "1777029441087",
+    "createdAt": "2026-04-24T11:17:21.087Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.37,
+    "imageUrl": "1777029442245-363680888",
+    "latitude": 31.248032,
+    "longitude": 75.703354,
+    "locationName": null,
+    "_id": "1777029442339",
+    "createdAt": "2026-04-24T11:17:22.339Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.37,
+    "imageUrl": "1777029450333-103925030",
+    "latitude": 30.59887823036707,
+    "longitude": 74.12738770145903,
+    "locationName": null,
+    "_id": "1777029450421",
+    "createdAt": "2026-04-24T11:17:30.421Z"
+  },
+  {
+    "status": "Oil Spill Water",
+    "confidence": 0.52,
+    "imageUrl": "1777029465618-432026983.png",
+    "latitude": 30.59887823036707,
+    "longitude": 74.12738770145903,
+    "locationName": "lpu",
+    "_id": "1777029465721",
+    "createdAt": "2026-04-24T11:17:45.721Z"
+  },
+  {
+    "status": "algae_present",
+    "confidence": 0.45,
+    "imageUrl": "1777029504226-931096083.png",
+    "latitude": 31.24832,
+    "longitude": 75.703026,
+    "locationName": "lpu",
+    "_id": "1777029504309",
+    "createdAt": "2026-04-24T11:18:24.309Z"
+  },
+  {
+    "status": "Foam water",
+    "confidence": 0.55,
+    "imageUrl": "1777029570188-582686147.png",
+    "latitude": 30.59879002055277,
+    "longitude": 74.12847004196789,
+    "locationName": "lpu",
+    "_id": "1777029570300",
+    "createdAt": "2026-04-24T11:19:30.300Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.45,
+    "imageUrl": "1777107796120-75756948.png",
+    "latitude": 30.599007975665657,
+    "longitude": 74.12741962687691,
+    "locationName": null,
+    "_id": "1777107796670",
+    "createdAt": "2026-04-25T09:03:16.670Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.55,
+    "imageUrl": "1777107812783-334522353.png",
+    "latitude": 30.599019839474266,
+    "longitude": 74.12739379362465,
+    "locationName": null,
+    "_id": "1777107812958",
+    "createdAt": "2026-04-25T09:03:32.958Z"
+  },
+  {
+    "status": "clean_water",
+    "confidence": 0.885,
+    "imageUrl": "1777107827031-874182558.png",
+    "latitude": 30.598973184809328,
+    "longitude": 74.1275329841815,
+    "locationName": null,
+    "_id": "1777107827216",
+    "createdAt": "2026-04-25T09:03:47.216Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.52,
+    "imageUrl": "1777107846879-99619125.png",
+    "latitude": 30.598969374690803,
+    "longitude": 74.1275503181913,
+    "locationName": null,
+    "_id": "1777107847063",
+    "createdAt": "2026-04-25T09:04:07.063Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.45,
+    "imageUrl": "1777107869540-655462808.png",
+    "latitude": 30.599035153431387,
+    "longitude": 74.12739898865506,
+    "locationName": null,
+    "_id": "1777107869698",
+    "createdAt": "2026-04-25T09:04:29.698Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.55,
+    "imageUrl": "1777107888014-293448255.png",
+    "latitude": 30.599031704202634,
+    "longitude": 74.12741851788593,
+    "locationName": null,
+    "_id": "1777107888229",
+    "createdAt": "2026-04-25T09:04:48.229Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.41,
+    "imageUrl": "1777107944902-750582247.png",
+    "latitude": 30.598919457472284,
+    "longitude": 74.12745141867661,
+    "locationName": null,
+    "_id": "1777107945090",
+    "createdAt": "2026-04-25T09:05:45.090Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.45,
+    "imageUrl": "1777108593279-598980901",
+    "latitude": 30.598948116647517,
+    "longitude": 74.12762930714464,
+    "locationName": null,
+    "_id": "1777108593450",
+    "createdAt": "2026-04-25T09:16:33.450Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.395,
+    "imageUrl": "1777108595038-41365980",
+    "latitude": 30.598948116647517,
+    "longitude": 74.12762930714464,
+    "locationName": null,
+    "_id": "1777108595108",
+    "createdAt": "2026-04-25T09:16:35.108Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.41,
+    "imageUrl": "1777108603234-68485339",
+    "latitude": 30.599055816117186,
+    "longitude": 74.12752157101906,
+    "locationName": null,
+    "_id": "1777108603301",
+    "createdAt": "2026-04-25T09:16:43.301Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.395,
+    "imageUrl": "1777108604973-258273177",
+    "latitude": 30.599055816117186,
+    "longitude": 74.12752157101906,
+    "locationName": null,
+    "_id": "1777108605053",
+    "createdAt": "2026-04-25T09:16:45.053Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.425,
+    "imageUrl": "1777108613134-441238772",
+    "latitude": 30.599005755392945,
+    "longitude": 74.12756397272265,
+    "locationName": null,
+    "_id": "1777108613209",
+    "createdAt": "2026-04-25T09:16:53.209Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.44,
+    "imageUrl": "1777108615029-459869564",
+    "latitude": 30.599005755392945,
+    "longitude": 74.12756397272265,
+    "locationName": null,
+    "_id": "1777108615195",
+    "createdAt": "2026-04-25T09:16:55.195Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.44,
+    "imageUrl": "1777108623194-926982656",
+    "latitude": 30.59901338727548,
+    "longitude": 74.127546111164,
+    "locationName": null,
+    "_id": "1777108623274",
+    "createdAt": "2026-04-25T09:17:03.274Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.44,
+    "imageUrl": "1777108624981-148073872",
+    "latitude": 30.59901338727548,
+    "longitude": 74.127546111164,
+    "locationName": null,
+    "_id": "1777108625066",
+    "createdAt": "2026-04-25T09:17:05.066Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.425,
+    "imageUrl": "1777108633144-471806369",
+    "latitude": 30.599042096648418,
+    "longitude": 74.12736986392488,
+    "locationName": null,
+    "_id": "1777108633219",
+    "createdAt": "2026-04-25T09:17:13.219Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.405,
+    "imageUrl": "1777108634973-638279248",
+    "latitude": 30.599042096648418,
+    "longitude": 74.12736986392488,
+    "locationName": null,
+    "_id": "1777108635057",
+    "createdAt": "2026-04-25T09:17:15.057Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.42,
+    "imageUrl": "1777108643159-7454272",
+    "latitude": 30.599024091755822,
+    "longitude": 74.12740891065127,
+    "locationName": null,
+    "_id": "1777108643256",
+    "createdAt": "2026-04-25T09:17:23.256Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.46,
+    "imageUrl": "1777108644999-875715521",
+    "latitude": 30.599024091755822,
+    "longitude": 74.12740891065127,
+    "locationName": null,
+    "_id": "1777108645074",
+    "createdAt": "2026-04-25T09:17:25.074Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.325,
+    "imageUrl": "1777108653306-755874556",
+    "latitude": 30.59901563677023,
+    "longitude": 74.12740903649694,
+    "locationName": null,
+    "_id": "1777108653385",
+    "createdAt": "2026-04-25T09:17:33.385Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.42,
+    "imageUrl": "1777108654956-146327961",
+    "latitude": 30.59901563677023,
+    "longitude": 74.12740903649694,
+    "locationName": null,
+    "_id": "1777108655037",
+    "createdAt": "2026-04-25T09:17:35.037Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.445,
+    "imageUrl": "1777108663165-112873133",
+    "latitude": 30.59901563677023,
+    "longitude": 74.12740903649694,
+    "locationName": null,
+    "_id": "1777108663245",
+    "createdAt": "2026-04-25T09:17:43.245Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.43,
+    "imageUrl": "1777108664985-252207632",
+    "latitude": 30.59901563677023,
+    "longitude": 74.12740903649694,
+    "locationName": null,
+    "_id": "1777108665061",
+    "createdAt": "2026-04-25T09:17:45.061Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.42,
+    "imageUrl": "1777108673199-286382409",
+    "latitude": 30.599076580188775,
+    "longitude": 74.12732662271013,
+    "locationName": null,
+    "_id": "1777108673282",
+    "createdAt": "2026-04-25T09:17:53.282Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.45,
+    "imageUrl": "1777108674989-390241467",
+    "latitude": 30.599076580188775,
+    "longitude": 74.12732662271013,
+    "locationName": null,
+    "_id": "1777108675071",
+    "createdAt": "2026-04-25T09:17:55.071Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.43,
+    "imageUrl": "1777108683182-452501061",
+    "latitude": 30.59898289798181,
+    "longitude": 74.12735510605641,
+    "locationName": null,
+    "_id": "1777108683266",
+    "createdAt": "2026-04-25T09:18:03.266Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.38,
+    "imageUrl": "1777108684983-51881625",
+    "latitude": 30.59898289798181,
+    "longitude": 74.12735510605641,
+    "locationName": null,
+    "_id": "1777108685046",
+    "createdAt": "2026-04-25T09:18:05.046Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.455,
+    "imageUrl": "1777108693068-948697565",
+    "latitude": 30.59895677562788,
+    "longitude": 74.12753311741841,
+    "locationName": null,
+    "_id": "1777108693137",
+    "createdAt": "2026-04-25T09:18:13.137Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.47,
+    "imageUrl": "1777108694968-353037177",
+    "latitude": 30.59895677562788,
+    "longitude": 74.12753311741841,
+    "locationName": null,
+    "_id": "1777108695035",
+    "createdAt": "2026-04-25T09:18:15.035Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.395,
+    "imageUrl": "1777108703116-485881204",
+    "latitude": 30.59895677562788,
+    "longitude": 74.12753311741841,
+    "locationName": null,
+    "_id": "1777108703196",
+    "createdAt": "2026-04-25T09:18:23.196Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.41,
+    "imageUrl": "1777108704964-896369142",
+    "latitude": 30.59895677562788,
+    "longitude": 74.12753311741841,
+    "locationName": null,
+    "_id": "1777108705045",
+    "createdAt": "2026-04-25T09:18:25.045Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.395,
+    "imageUrl": "1777108713151-841711412",
+    "latitude": 30.59895677562788,
+    "longitude": 74.12753311741841,
+    "locationName": null,
+    "_id": "1777108713224",
+    "createdAt": "2026-04-25T09:18:33.224Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.45,
+    "imageUrl": "1777108714971-780362594",
+    "latitude": 30.59895677562788,
+    "longitude": 74.12753311741841,
+    "locationName": null,
+    "_id": "1777108715036",
+    "createdAt": "2026-04-25T09:18:35.036Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.445,
+    "imageUrl": "1777108719933-209717941",
+    "latitude": 30.59895677562788,
+    "longitude": 74.12753311741841,
+    "locationName": null,
+    "_id": "1777108720070",
+    "createdAt": "2026-04-25T09:18:40.070Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.45,
+    "imageUrl": "1777108728282-555964666",
+    "latitude": 30.59905232817904,
+    "longitude": 74.12736970078134,
+    "locationName": null,
+    "_id": "1777108728349",
+    "createdAt": "2026-04-25T09:18:48.349Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.465,
+    "imageUrl": "1777108729961-881185318",
+    "latitude": 30.59905232817904,
+    "longitude": 74.12736970078134,
+    "locationName": null,
+    "_id": "1777108730027",
+    "createdAt": "2026-04-25T09:18:50.027Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.42,
+    "imageUrl": "1777108738123-781950330",
+    "latitude": 30.599001972305665,
+    "longitude": 74.12736144803398,
+    "locationName": null,
+    "_id": "1777108738206",
+    "createdAt": "2026-04-25T09:18:58.206Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.45,
+    "imageUrl": "1777108739986-800719198",
+    "latitude": 30.599001972305665,
+    "longitude": 74.12736144803398,
+    "locationName": null,
+    "_id": "1777108740111",
+    "createdAt": "2026-04-25T09:19:00.111Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.445,
+    "imageUrl": "1777108748243-744929274",
+    "latitude": 30.598959461854363,
+    "longitude": 74.12732497040753,
+    "locationName": null,
+    "_id": "1777108748331",
+    "createdAt": "2026-04-25T09:19:08.331Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.45,
+    "imageUrl": "1777108750018-113824286",
+    "latitude": 30.598959461854363,
+    "longitude": 74.12732497040753,
+    "locationName": null,
+    "_id": "1777108750105",
+    "createdAt": "2026-04-25T09:19:10.105Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.455,
+    "imageUrl": "1777108758151-158689216",
+    "latitude": 30.598939266304008,
+    "longitude": 74.12749193157124,
+    "locationName": null,
+    "_id": "1777108758224",
+    "createdAt": "2026-04-25T09:19:18.224Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.48,
+    "imageUrl": "1777108759974-376621486",
+    "latitude": 30.598939266304008,
+    "longitude": 74.12749193157124,
+    "locationName": null,
+    "_id": "1777108760041",
+    "createdAt": "2026-04-25T09:19:20.041Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.485,
+    "imageUrl": "1777108768142-66434264",
+    "latitude": 30.598948148217332,
+    "longitude": 74.12753840639348,
+    "locationName": null,
+    "_id": "1777108768223",
+    "createdAt": "2026-04-25T09:19:28.223Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.46,
+    "imageUrl": "1777108769999-34088699",
+    "latitude": 30.598948148217332,
+    "longitude": 74.12753840639348,
+    "locationName": null,
+    "_id": "1777108770082",
+    "createdAt": "2026-04-25T09:19:30.082Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.485,
+    "imageUrl": "1777108774944-81773763",
+    "latitude": 30.598948148217332,
+    "longitude": 74.12753840639348,
+    "locationName": null,
+    "_id": "1777108775056",
+    "createdAt": "2026-04-25T09:19:35.056Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.465,
+    "imageUrl": "1777108783209-7319769",
+    "latitude": 30.598977234051183,
+    "longitude": 74.12752834722036,
+    "locationName": null,
+    "_id": "1777108783295",
+    "createdAt": "2026-04-25T09:19:43.295Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.475,
+    "imageUrl": "1777108784981-556785338",
+    "latitude": 30.598977234051183,
+    "longitude": 74.12752834722036,
+    "locationName": null,
+    "_id": "1777108785117",
+    "createdAt": "2026-04-25T09:19:45.117Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.415,
+    "imageUrl": "1777108793287-861250331",
+    "latitude": 30.598973826827937,
+    "longitude": 74.12758759729309,
+    "locationName": null,
+    "_id": "1777108793363",
+    "createdAt": "2026-04-25T09:19:53.363Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.415,
+    "imageUrl": "1777108794982-885146535",
+    "latitude": 30.598973826827937,
+    "longitude": 74.12758759729309,
+    "locationName": null,
+    "_id": "1777108795050",
+    "createdAt": "2026-04-25T09:19:55.050Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.44,
+    "imageUrl": "1777108800009-742277531",
+    "latitude": 30.598973826827937,
+    "longitude": 74.12758759729309,
+    "locationName": null,
+    "_id": "1777108800096",
+    "createdAt": "2026-04-25T09:20:00.096Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.445,
+    "imageUrl": "1777108808159-853941159",
+    "latitude": 30.59898997669456,
+    "longitude": 74.12759969000761,
+    "locationName": null,
+    "_id": "1777108808256",
+    "createdAt": "2026-04-25T09:20:08.256Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.385,
+    "imageUrl": "1777108809985-589208970",
+    "latitude": 30.59898997669456,
+    "longitude": 74.12759969000761,
+    "locationName": null,
+    "_id": "1777108810063",
+    "createdAt": "2026-04-25T09:20:10.063Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.48,
+    "imageUrl": "1777108818159-389514057",
+    "latitude": 30.598937342030226,
+    "longitude": 74.12760479880876,
+    "locationName": null,
+    "_id": "1777108818279",
+    "createdAt": "2026-04-25T09:20:18.279Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.425,
+    "imageUrl": "1777108819987-947767487",
+    "latitude": 30.598937342030226,
+    "longitude": 74.12760479880876,
+    "locationName": null,
+    "_id": "1777108820062",
+    "createdAt": "2026-04-25T09:20:20.062Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.465,
+    "imageUrl": "1777108825004-140398648",
+    "latitude": 30.598937342030226,
+    "longitude": 74.12760479880876,
+    "locationName": null,
+    "_id": "1777108825100",
+    "createdAt": "2026-04-25T09:20:25.100Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.45,
+    "imageUrl": "1777108833194-71083706",
+    "latitude": 30.59893125837055,
+    "longitude": 74.12754447735632,
+    "locationName": null,
+    "_id": "1777108833272",
+    "createdAt": "2026-04-25T09:20:33.272Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.445,
+    "imageUrl": "1777108835104-609980573",
+    "latitude": 30.59893125837055,
+    "longitude": 74.12754447735632,
+    "locationName": null,
+    "_id": "1777108835185",
+    "createdAt": "2026-04-25T09:20:35.185Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.39,
+    "imageUrl": "1777108839986-68136745",
+    "latitude": 30.59893125837055,
+    "longitude": 74.12754447735632,
+    "locationName": null,
+    "_id": "1777108840051",
+    "createdAt": "2026-04-25T09:20:40.051Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.405,
+    "imageUrl": "1777108848093-112179285",
+    "latitude": 30.59893125837055,
+    "longitude": 74.12754447735632,
+    "locationName": null,
+    "_id": "1777108848183",
+    "createdAt": "2026-04-25T09:20:48.183Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.415,
+    "imageUrl": "1777108849974-521799982",
+    "latitude": 30.59893125837055,
+    "longitude": 74.12754447735632,
+    "locationName": null,
+    "_id": "1777108850138",
+    "createdAt": "2026-04-25T09:20:50.138Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.375,
+    "imageUrl": "1777108854982-930437361",
+    "latitude": 30.59893125837055,
+    "longitude": 74.12754447735632,
+    "locationName": null,
+    "_id": "1777108855073",
+    "createdAt": "2026-04-25T09:20:55.073Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.4,
+    "imageUrl": "1777108863141-567091867",
+    "latitude": 30.59901563677023,
+    "longitude": 74.12740903649694,
+    "locationName": null,
+    "_id": "1777108863228",
+    "createdAt": "2026-04-25T09:21:03.228Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.415,
+    "imageUrl": "1777108864995-892149002",
+    "latitude": 30.59901563677023,
+    "longitude": 74.12740903649694,
+    "locationName": null,
+    "_id": "1777108865108",
+    "createdAt": "2026-04-25T09:21:05.108Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.39,
+    "imageUrl": "1777108873211-728566098",
+    "latitude": 30.599033328064767,
+    "longitude": 74.12736219836579,
+    "locationName": null,
+    "_id": "1777108873297",
+    "createdAt": "2026-04-25T09:21:13.297Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.375,
+    "imageUrl": "1777108874936-572191799",
+    "latitude": 30.599033328064767,
+    "longitude": 74.12736219836579,
+    "locationName": null,
+    "_id": "1777108875016",
+    "createdAt": "2026-04-25T09:21:15.016Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.405,
+    "imageUrl": "1777108883045-45362273",
+    "latitude": 30.599047426428182,
+    "longitude": 74.12735717964846,
+    "locationName": null,
+    "_id": "1777108883122",
+    "createdAt": "2026-04-25T09:21:23.122Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.4,
+    "imageUrl": "1777108884996-284596761",
+    "latitude": 30.599047426428182,
+    "longitude": 74.12735717964846,
+    "locationName": null,
+    "_id": "1777108885076",
+    "createdAt": "2026-04-25T09:21:25.076Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.415,
+    "imageUrl": "1777108893003-644954277",
+    "latitude": 30.599035649322516,
+    "longitude": 74.12735250945737,
+    "locationName": null,
+    "_id": "1777108893075",
+    "createdAt": "2026-04-25T09:21:33.075Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.41,
+    "imageUrl": "1777108894974-525233987",
+    "latitude": 30.599035649322516,
+    "longitude": 74.12735250945737,
+    "locationName": null,
+    "_id": "1777108895044",
+    "createdAt": "2026-04-25T09:21:35.044Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.395,
+    "imageUrl": "1777108903109-465447272",
+    "latitude": 30.599009391880706,
+    "longitude": 74.12751815818946,
+    "locationName": null,
+    "_id": "1777108903174",
+    "createdAt": "2026-04-25T09:21:43.174Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.43,
+    "imageUrl": "1777108904981-296901956",
+    "latitude": 30.599009391880706,
+    "longitude": 74.12751815818946,
+    "locationName": null,
+    "_id": "1777108905110",
+    "createdAt": "2026-04-25T09:21:45.110Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.345,
+    "imageUrl": "1777108913259-113995361",
+    "latitude": 30.598915115291952,
+    "longitude": 74.12769974640915,
+    "locationName": null,
+    "_id": "1777108913341",
+    "createdAt": "2026-04-25T09:21:53.341Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.405,
+    "imageUrl": "1777108914976-873662737",
+    "latitude": 30.598915115291952,
+    "longitude": 74.12769974640915,
+    "locationName": null,
+    "_id": "1777108915043",
+    "createdAt": "2026-04-25T09:21:55.043Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.4,
+    "imageUrl": "1777108920013-426860052",
+    "latitude": 30.598915115291952,
+    "longitude": 74.12769974640915,
+    "locationName": null,
+    "_id": "1777108920118",
+    "createdAt": "2026-04-25T09:22:00.118Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.36,
+    "imageUrl": "1777108928198-672139622",
+    "latitude": 30.598940726449,
+    "longitude": 74.12764657964209,
+    "locationName": null,
+    "_id": "1777108928276",
+    "createdAt": "2026-04-25T09:22:08.276Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.4,
+    "imageUrl": "1777108929989-438856366",
+    "latitude": 30.598940726449,
+    "longitude": 74.12764657964209,
+    "locationName": null,
+    "_id": "1777108930077",
+    "createdAt": "2026-04-25T09:22:10.077Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.36,
+    "imageUrl": "1777108934974-950513128",
+    "latitude": 30.598940726449,
+    "longitude": 74.12764657964209,
+    "locationName": null,
+    "_id": "1777108935055",
+    "createdAt": "2026-04-25T09:22:15.055Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.355,
+    "imageUrl": "1777108943168-403477521",
+    "latitude": 30.598950930294066,
+    "longitude": 74.12743612743397,
+    "locationName": null,
+    "_id": "1777108943238",
+    "createdAt": "2026-04-25T09:22:23.238Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.345,
+    "imageUrl": "1777108944976-316546905",
+    "latitude": 30.598950930294066,
+    "longitude": 74.12743612743397,
+    "locationName": null,
+    "_id": "1777108945064",
+    "createdAt": "2026-04-25T09:22:25.064Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.355,
+    "imageUrl": "1777108949989-236036993",
+    "latitude": 30.598950930294066,
+    "longitude": 74.12743612743397,
+    "locationName": null,
+    "_id": "1777108950069",
+    "createdAt": "2026-04-25T09:22:30.069Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.36,
+    "imageUrl": "1777108958226-497224510",
+    "latitude": 30.59899619520971,
+    "longitude": 74.1274841285001,
+    "locationName": null,
+    "_id": "1777108958299",
+    "createdAt": "2026-04-25T09:22:38.299Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.435,
+    "imageUrl": "1777108959977-159100664",
+    "latitude": 30.59899619520971,
+    "longitude": 74.1274841285001,
+    "locationName": null,
+    "_id": "1777108960154",
+    "createdAt": "2026-04-25T09:22:40.154Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.4,
+    "imageUrl": "1777108968203-765138460",
+    "latitude": 30.59899619520971,
+    "longitude": 74.1274841285001,
+    "locationName": null,
+    "_id": "1777108968271",
+    "createdAt": "2026-04-25T09:22:48.271Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.45,
+    "imageUrl": "1777108969968-306190799",
+    "latitude": 30.59899619520971,
+    "longitude": 74.1274841285001,
+    "locationName": null,
+    "_id": "1777108970055",
+    "createdAt": "2026-04-25T09:22:50.055Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.41,
+    "imageUrl": "1777108978113-752614130",
+    "latitude": 30.598941500945127,
+    "longitude": 74.12764755648875,
+    "locationName": null,
+    "_id": "1777108978187",
+    "createdAt": "2026-04-25T09:22:58.187Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.395,
+    "imageUrl": "1777108979990-649158096",
+    "latitude": 30.598941500945127,
+    "longitude": 74.12764755648875,
+    "locationName": null,
+    "_id": "1777108980087",
+    "createdAt": "2026-04-25T09:23:00.087Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.425,
+    "imageUrl": "1777108984988-922076232",
+    "latitude": 30.598941500945127,
+    "longitude": 74.12764755648875,
+    "locationName": null,
+    "_id": "1777108985067",
+    "createdAt": "2026-04-25T09:23:05.067Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.425,
+    "imageUrl": "1777108993285-686682257",
+    "latitude": 30.598909599273487,
+    "longitude": 74.1276555888198,
+    "locationName": null,
+    "_id": "1777108993365",
+    "createdAt": "2026-04-25T09:23:13.365Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.43,
+    "imageUrl": "1777108994992-333984423",
+    "latitude": 30.598909599273487,
+    "longitude": 74.1276555888198,
+    "locationName": null,
+    "_id": "1777108995077",
+    "createdAt": "2026-04-25T09:23:15.077Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.375,
+    "imageUrl": "1777108999971-361430973",
+    "latitude": 30.598909599273487,
+    "longitude": 74.1276555888198,
+    "locationName": null,
+    "_id": "1777109000068",
+    "createdAt": "2026-04-25T09:23:20.068Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.41,
+    "imageUrl": "1777109008088-872627342",
+    "latitude": 30.598911398648767,
+    "longitude": 74.12768708531428,
+    "locationName": null,
+    "_id": "1777109008211",
+    "createdAt": "2026-04-25T09:23:28.211Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.44,
+    "imageUrl": "1777109010005-767762747",
+    "latitude": 30.598911398648767,
+    "longitude": 74.12768708531428,
+    "locationName": null,
+    "_id": "1777109010096",
+    "createdAt": "2026-04-25T09:23:30.096Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.44,
+    "imageUrl": "1777109013023-567162033",
+    "latitude": 30.598911398648767,
+    "longitude": 74.12768708531428,
+    "locationName": null,
+    "_id": "1777109013135",
+    "createdAt": "2026-04-25T09:23:33.135Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.39,
+    "imageUrl": "1777109279676-301765496",
+    "latitude": 30.598966269136866,
+    "longitude": 74.12761809148154,
+    "locationName": null,
+    "_id": "1777109279863",
+    "createdAt": "2026-04-25T09:27:59.863Z"
+  },
+  {
+    "status": "algae_present",
+    "confidence": 0.505,
+    "imageUrl": "1777109281533-878127034",
+    "latitude": 30.598966269136866,
+    "longitude": 74.12761809148154,
+    "locationName": null,
+    "_id": "1777109281736",
+    "createdAt": "2026-04-25T09:28:01.736Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.49,
+    "imageUrl": "1777109289740-409854507",
+    "latitude": 30.59899113711788,
+    "longitude": 74.12758011213785,
+    "locationName": null,
+    "_id": "1777109289902",
+    "createdAt": "2026-04-25T09:28:09.902Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.49,
+    "imageUrl": "1777109291510-881324763",
+    "latitude": 30.59899113711788,
+    "longitude": 74.12758011213785,
+    "locationName": null,
+    "_id": "1777109291653",
+    "createdAt": "2026-04-25T09:28:11.653Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.47,
+    "imageUrl": "1777109302484-25618890",
+    "latitude": 30.59899113711788,
+    "longitude": 74.12758011213785,
+    "locationName": "lpu",
+    "_id": "1777109302709",
+    "createdAt": "2026-04-25T09:28:22.709Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.35,
+    "imageUrl": "1777109352483-632217364",
+    "latitude": 30.599056789788094,
+    "longitude": 74.12732118229897,
+    "locationName": null,
+    "_id": "1777109352667",
+    "createdAt": "2026-04-25T09:29:12.667Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.39,
+    "imageUrl": "1777109354380-492646452",
+    "latitude": 30.599056789788094,
+    "longitude": 74.12732118229897,
+    "locationName": null,
+    "_id": "1777109354635",
+    "createdAt": "2026-04-25T09:29:14.635Z"
+  },
+  {
+    "status": "algae_present",
+    "confidence": 0.515,
+    "imageUrl": "1777109362460-467589953",
+    "latitude": 30.599010220366704,
+    "longitude": 74.12732154842038,
+    "locationName": null,
+    "_id": "1777109362594",
+    "createdAt": "2026-04-25T09:29:22.594Z"
+  },
+  {
+    "status": "algae_present",
+    "confidence": 0.52,
+    "imageUrl": "1777109364394-11334575",
+    "latitude": 30.599010220366704,
+    "longitude": 74.12732154842038,
+    "locationName": null,
+    "_id": "1777109364572",
+    "createdAt": "2026-04-25T09:29:24.572Z"
+  },
+  {
+    "status": "algae_present",
+    "confidence": 0.52,
+    "imageUrl": "1777109372598-569300887",
+    "latitude": 30.599009072084858,
+    "longitude": 74.1275348127955,
+    "locationName": null,
+    "_id": "1777109372740",
+    "createdAt": "2026-04-25T09:29:32.740Z"
+  },
+  {
+    "status": "algae_present",
+    "confidence": 0.525,
+    "imageUrl": "1777109374376-50372574",
+    "latitude": 30.599009072084858,
+    "longitude": 74.1275348127955,
+    "locationName": null,
+    "_id": "1777109374528",
+    "createdAt": "2026-04-25T09:29:34.528Z"
+  },
+  {
+    "status": "algae_present",
+    "confidence": 0.51,
+    "imageUrl": "1777109384303-615006029",
+    "latitude": 30.59900086641009,
+    "longitude": 74.1275981176574,
+    "locationName": "abhishek",
+    "_id": "1777109384468",
+    "createdAt": "2026-04-25T09:29:44.468Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.475,
+    "imageUrl": "1777109385925-6474688",
+    "latitude": 30.59900086641009,
+    "longitude": 74.1275981176574,
+    "locationName": "abhishek",
+    "_id": "1777109386086",
+    "createdAt": "2026-04-25T09:29:46.086Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.47,
+    "imageUrl": "1777109395885-839352171",
+    "latitude": null,
+    "longitude": null,
+    "locationName": "abhishek",
+    "_id": "1777109396022",
+    "createdAt": "2026-04-25T09:29:56.022Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.355,
+    "imageUrl": "1777109654263-138208510",
+    "latitude": 30.599052758197885,
+    "longitude": 74.1274462902645,
+    "locationName": null,
+    "_id": "1777109654335",
+    "createdAt": "2026-04-25T09:34:14.335Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.345,
+    "imageUrl": "1777109684298-692929406",
+    "latitude": 30.599031704202634,
+    "longitude": 74.12741851788593,
+    "locationName": null,
+    "_id": "1777109684388",
+    "createdAt": "2026-04-25T09:34:44.388Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.495,
+    "imageUrl": "1777109849108-821203608",
+    "latitude": 30.598977141185156,
+    "longitude": 74.12730231650364,
+    "locationName": "asdfghjkl",
+    "_id": "1777109849300",
+    "createdAt": "2026-04-25T09:37:29.300Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.37,
+    "imageUrl": "1777109879162-312440605",
+    "latitude": 30.598908676552366,
+    "longitude": 74.12749015476709,
+    "locationName": "asdfghjkl",
+    "_id": "1777109879346",
+    "createdAt": "2026-04-25T09:37:59.346Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.465,
+    "imageUrl": "1777111378487-725501002",
+    "latitude": 30.598662099752115,
+    "longitude": 74.12763456712558,
+    "locationName": "bihar, Bikramganj, Rohtas, Bihar, 802212",
+    "_id": "1777111378692",
+    "createdAt": "2026-04-25T10:02:58.692Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.345,
+    "imageUrl": "1777111408610-925139647",
+    "latitude": 30.59910333754613,
+    "longitude": 74.12781414855814,
+    "locationName": "bihar, Bikramganj, Rohtas, Bihar, 802212",
+    "_id": "1777111408789",
+    "createdAt": "2026-04-25T10:03:28.789Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.345,
+    "imageUrl": "1777111435359-847458920",
+    "latitude": 30.59910333754613,
+    "longitude": 74.12781414855814,
+    "locationName": "bihar, Bikramganj, Rohtas, Bihar, 802212",
+    "_id": "1777111435528",
+    "createdAt": "2026-04-25T10:03:55.529Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.315,
+    "imageUrl": "1777111469115-817472677",
+    "latitude": 31.248178,
+    "longitude": 75.7030905,
+    "locationName": "bihar, Bikramganj, Rohtas, Bihar, 802212",
+    "_id": "1777111469269",
+    "createdAt": "2026-04-25T10:04:29.269Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.485,
+    "imageUrl": "1777111500153-402899294",
+    "latitude": 30.598885,
+    "longitude": 74.127415,
+    "locationName": "bihar, Bikramganj, Rohtas, Bihar, 802212",
+    "_id": "1777111500240",
+    "createdAt": "2026-04-25T10:05:00.240Z"
+  },
+  {
+    "status": "Oil Spill Water",
+    "confidence": 1,
+    "imageUrl": "1777111807944-853001210.png",
+    "latitude": 30.59875968946595,
+    "longitude": 74.12842667027917,
+    "locationName": "30.59878, 74.12833, Punjab,",
+    "_id": "1777111808130",
+    "createdAt": "2026-04-25T10:10:08.130Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.34,
+    "imageUrl": "1777111996783-136319484",
+    "latitude": 30.59887823036707,
+    "longitude": 74.12738770145903,
+    "locationName": "30.59878, 74.12833, Punjab,",
+    "_id": "1777111996942",
+    "createdAt": "2026-04-25T10:13:16.942Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.4,
+    "imageUrl": "1777112026708-506543931",
+    "latitude": 30.59887823036707,
+    "longitude": 74.12738770145903,
+    "locationName": "30.59878, 74.12833, Punjab,",
+    "_id": "1777112026858",
+    "createdAt": "2026-04-25T10:13:46.858Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.44,
+    "imageUrl": "1777112117270-394245360.png",
+    "latitude": 30.59902621069158,
+    "longitude": 74.12756555911764,
+    "locationName": "Chiheru, Kapurthala, Punjab, 144411",
+    "_id": "1777112117391",
+    "createdAt": "2026-04-25T10:15:17.391Z"
+  },
+  {
+    "status": "algae_present",
+    "confidence": 0.97,
+    "imageUrl": "1777112144354-263989645.png",
+    "latitude": 30.59902621069158,
+    "longitude": 74.12756555911764,
+    "locationName": "Chiheru, Kapurthala, Punjab, 144411",
+    "_id": "1777112144514",
+    "createdAt": "2026-04-25T10:15:44.514Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.48,
+    "imageUrl": "1777112157863-949018935.png",
+    "latitude": 31.248365,
+    "longitude": 75.703049,
+    "locationName": "Chiheru, Kapurthala, Punjab, 144411",
+    "_id": "1777112158037",
+    "createdAt": "2026-04-25T10:15:58.037Z"
+  },
+  {
+    "status": "Oil Spill Water",
+    "confidence": 1,
+    "imageUrl": "1777112175951-999571837.png",
+    "latitude": 30.598830553156656,
+    "longitude": 74.1281226117456,
+    "locationName": "Chiheru, Kapurthala, Punjab, 144411",
+    "_id": "1777112176067",
+    "createdAt": "2026-04-25T10:16:16.067Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.575,
+    "imageUrl": "1777112196633-942267893.png",
+    "latitude": 30.598949192310634,
+    "longitude": 74.12736982763325,
+    "locationName": "Chiheru, Kapurthala, Punjab, 144411",
+    "_id": "1777112196752",
+    "createdAt": "2026-04-25T10:16:36.752Z"
+  },
+  {
+    "status": "Foam water",
+    "confidence": 0.615,
+    "imageUrl": "1777112275775-715976325.png",
+    "latitude": 30.598635937122566,
+    "longitude": 74.12769843088427,
+    "locationName": "abhishek",
+    "_id": "1777112275914",
+    "createdAt": "2026-04-25T10:17:55.914Z"
+  },
+  {
+    "status": "invalid_image",
+    "confidence": 0.3,
+    "imageUrl": "1777349150547-329683812.png",
+    "latitude": 31.251136,
+    "longitude": 75.699586,
+    "locationName": null,
+    "_id": "1777349151432",
+    "createdAt": "2026-04-28T04:05:51.432Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.845,
+    "imageUrl": "1777349240886-523735358.jpg",
+    "latitude": null,
+    "longitude": null,
+    "locationName": null,
+    "_id": "1777349240991",
+    "createdAt": "2026-04-28T04:07:20.991Z"
+  },
+  {
+    "status": "polluted_water",
+    "confidence": 0.845,
+    "imageUrl": "1777349247489-527937094.jpg",
+    "latitude": null,
+    "longitude": null,
+    "locationName": null,
+    "_id": "1777349247594",
+    "createdAt": "2026-04-28T04:07:27.594Z"
+  }
+]
